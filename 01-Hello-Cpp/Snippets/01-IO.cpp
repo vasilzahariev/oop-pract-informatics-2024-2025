@@ -3,8 +3,6 @@
 #include <iomanip>  // Include the C++ standard I/O manipulators library
 
 /**
- * This program demonstrates the use of both C++ and C input/output (I/O) operations.
- * 
  * C++ I/O:
  * - `std::cout` is used for output. It is an instance of the `ostream` class and is part of the C++ Standard Library.
  * - `std::cin` is used for input. It is an instance of the `istream` class and is part of the C++ Standard Library.
