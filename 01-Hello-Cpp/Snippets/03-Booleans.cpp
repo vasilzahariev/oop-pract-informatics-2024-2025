@@ -1,7 +1,5 @@
 #include <iostream>
 
-// This program demonstrates the use of Booleans in C++ compared to C
-
 int main() {
     // In C, we typically use integers to represent boolean values
     int c_true = 1;  // true in C
