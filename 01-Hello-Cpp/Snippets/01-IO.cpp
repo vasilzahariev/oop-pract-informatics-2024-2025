@@ -1,6 +1,5 @@
 #include <iostream> // Include the C++ standard input-output stream library
 #include <cstdio>   // Include the C standard input-output library
-#include <iomanip>  // Include the C++ standard I/O manipulators library
 
 /**
  * C++ I/O:
