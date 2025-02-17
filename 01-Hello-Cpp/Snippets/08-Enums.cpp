@@ -1,6 +1,5 @@
 #include <iostream>
 
-// Define a simple enum for days of the week
 /* Enum (Traditional)
     - Decalred using the keyword enum
 
