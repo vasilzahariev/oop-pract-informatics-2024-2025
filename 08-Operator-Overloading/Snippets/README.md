@@ -1,0 +1,10 @@
+# Снипети към [Предефиниране на оператори](../)
+
+1. [Аритметични оператори](./01-Arithmetic-Operators.cpp)
+2. [Унарни оператори](./02-Unary-Operators.cpp)
+3. [Оператори за сравнение](./03-Comparison-Operators.cpp)
+4. [Оператори за инкрементиране и декрементиране](./04-Increment-And-Decrement-Operators.cpp)
+5. [Оператор \[\]](./05-Subscript-Operator.cpp)
+6. [Operator ()](./06-Parenthesis-Operator.cpp)
+7. [Оператори за вход и изход](./07-Input-Output-Operators.cpp)
+8. [Оператори за типове](./08-Typecast-Operators.cpp)
